@@ -62,6 +62,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
 - [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 - [Smart Runner](https://runnerapp.pro/) - Privacy-respecting on-device running and marathon training coach with adaptive plans (iOS & Apple Watch).
+- [Pelaris](https://pelaris.io/) - AI fitness coach that builds and adapts a periodised training plan around your sport and goals, with a 3D body scan (Web, iOS & Android).
 
 ### Places & Travel
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
